@@ -18,6 +18,7 @@ tornado==6.1
 traitlets==5.1.1
 urllib3==1.26.9
 skl2onnx==1.13
+onnx==1.13.0
 #
 # These excluded are transitive dependencies of the included python packages.
 #ansiwrap==0.8.4
