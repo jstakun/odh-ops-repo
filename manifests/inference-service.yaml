@@ -8,7 +8,7 @@ spec:
   - graph:
       envSecretRefName: seldon-rclone-secret
       implementation: SKLEARN_SERVER
-      modelUri: s3://anomaly-detection-2212061417
+      modelUri: s3://anomaly-detection-2212131602
       name: inference-service
       parameters:
       - name: method
